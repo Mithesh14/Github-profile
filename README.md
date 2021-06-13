@@ -23,6 +23,8 @@
 
 ![screenshots](https://github.com/Mithesh14/Github-profile/blob/main/image/image5.jpg)
 
-➡️ The heart of the project is the information that are displayed. For this I used an API which provides a fast, consistent and reliable way to get third party data. 
+➡️ For the information part , I used GITHUB API ❗
+
+➡️ An API which provides a fast, consistent and reliable way to get third party data. 
 
 ➡️ An API may be used for database communication between web applications. By extracting the implementation and relinquishing data into objects, an API simplifies programming.
