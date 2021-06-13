@@ -38,6 +38,7 @@ function createUserCard(user) {
                 </ul>
                 <div id="repos"></div>
             </div>
+            <div class="home"><a href="index.html"><i class="fas fa-home"></i></a></div>
         </div>
     <div class="name">Done by Mithesh</div>
     `;

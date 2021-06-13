@@ -87,9 +87,17 @@ input:focus {
 
 .name
 {
-    color: black;
-    font-weight: bold;
+    color: white;
+    font-weight: 200;
     margin-left: 42rem;
+}
+
+.home,a{
+    float: right;
+    font-size: 37px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .repo {
