@@ -1,5 +1,5 @@
 # Github profile
-✏️ A simple search engine to display the profile of the github users with their avatar, followers-following count and the list of repositories ❗
+✏️ A simple search engine to display the profile of the Github users like their avatar, followers-following count and the list of repositories ❗
  
 # Project deployed at
 
