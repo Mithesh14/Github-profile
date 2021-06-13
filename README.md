@@ -3,7 +3,7 @@
  
 # Project deployed at
 
-<a href="https://mithesh14.github.io/Movie-website/">Github profile</a>
+<a href="https://mithesh14.github.io/Github-profile/">Github profile</a>
 
 # Screenshots and working explained
 
