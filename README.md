@@ -9,11 +9,11 @@
 
 ➡️ The homepage of the search engine displays my profile. It also has a search bar to perform the search operations.
 
-➡️ The search engine fetch the information of the github users like their avatar, follower-following count, number and list of repositroies.
+➡️ The search engine fetch the information of the github users like their avatar, follower-following count, number and list of repositories ❗
 
 ![screenshots](https://github.com/Mithesh14/Github-profile/blob/main/image/image1.jpg)
 
-➡️ Proofs to show the working of search engine.
+➡️ Proofs to show the working of search engine ❗
 
 ![screenshots](https://github.com/Mithesh14/Github-profile/blob/main/image/image2.jpg)
 
